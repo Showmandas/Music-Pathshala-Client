@@ -1,0 +1,95 @@
+[
+  {
+    "instructor_name": "John Smith",
+    "image": "https://images.unsplash.com/photo-1513883049090-d0b7439799bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGlhbm98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "name":"Piano,Flute",
+    "numOfStudents": 250,
+    "category": "popular",
+    "seat":10,
+    "classPrice": 800
+  },
+  {
+    "instructor_name": "Emily Johnson",
+    "image": "https://images.unsplash.com/photo-1670601109805-b51163c8f3e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3VpdGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "name":"Guiter",
+    "numOfStudents": 330,
+    "category": "popular",
+    "seat":15,
+    "classPrice": 600
+  },
+  {
+    "name":"violin",
+    "instructor_name": "Michael Davis",
+    "image": "https://plus.unsplash.com/premium_photo-1680550631189-ac2bce6d411f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dmlvbGlufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "numOfStudents": 220,
+    "category": "Violin",
+    "seat":12,
+    "classPrice": 700
+  },
+  {
+    "instructor_name":"David Roberts",
+
+    "image": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2luZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "name":"Singing,voice trainer",
+    "numOfStudents": 340,
+    "category": "popular",
+    "seat":13,
+    "classPrice": 1000
+  },
+  {
+    "name":"Drums,Timpani",
+    "instructor_name":"Bruce Lee",
+    "image": "https://plus.unsplash.com/premium_photo-1681503973682-29cec46571b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZHJ1bXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "numOfStudents": 180,
+    "category": "Drums,Timpani",
+    "seat":20,
+    "classPrice": 850
+  },
+  {
+    "instructor_name":"Jennifer Lee",
+    "image": "https://images.unsplash.com/photo-1633411988188-6e63354a9019?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGFibGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "name":"Tabla,Dholak",
+    "numOfStudents": 325,
+    "category": "popular",
+    "seat":12,
+    "classPrice": 950
+  },
+  {
+    "name":"trumpet",
+    "instructor_name":"Daniel Brown",
+    "image": "https://plus.unsplash.com/premium_photo-1681389126676-2845865a1e49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJ1bXBldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "numOfStudents": 115,
+    "category": "Trumpet",
+    "seat":23,
+    "classPrice": 750
+  },
+  {
+    "instructor_name": "Olivia Anderson",
+    "image": "https://media.istockphoto.com/id/1482191853/photo/harmonium-a-hand-made-wooden-musical-instrument.webp?b=1&s=170667a&w=0&k=20&c=z1xZrCyXRlwn4wD0LUK3ErdQNYbKwdQTaOEyFw750RQ=",
+    "numOfStudents": 280,
+    "name":"Harmonium,Piano",
+    "category": "popular",
+    "seat":8,
+    "classPrice": 1100
+  },
+  {
+    "instructor_name":"Matthew Taylor",
+    "name":"Cello",
+    "image": "https://images.unsplash.com/photo-1539074450440-232be6e93e2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2VsbG98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "numOfStudents": 40,
+    "category": "Cello",
+    "seat":18,
+    "classPrice": 500
+  },
+  {
+    "instructor_name":"Sophia Martin",
+    "image": "https://images.unsplash.com/photo-1541592553160-82008b127ccb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHZvaWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "name":"Voice Trainng",
+    "numOfStudents": 350,
+    "category": "popular",
+    "seat":10,
+    "classPrice": 650
+  }
+]
+
+
